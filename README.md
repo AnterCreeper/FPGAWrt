@@ -26,10 +26,10 @@ This project consists of:
 - Custom OpenWrt packages
 
 ### Params of K26 SoM
-- Quad-core Arm Cortex-A53 MPCore @1.5 GHz, support Virtual Machine
-- Dual-core Arm Cortex-R5F MPCore @600 MHz
+- Quad-core Arm Cortex-A53 @1.5 GHz, support Virtual Machine
+- Dual-core Arm Cortex-R5F @600 MHz
 - 1x VCU, support H.264 and H.265 decode/encode
-- 4GBytes 64-bit DDR4(non-ECC)
+- 4GBytes 64-bit(non-ECC) DDR4 @2400MT/s
 - 16GiB eMMC
 - ARM SMMU and CCI-400, support IOMMU and CC(Cache Coherence) for PL
 
